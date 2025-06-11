@@ -1,0 +1,33 @@
+Personal email
+phone
+curernt address
+title of last course
+student number
+
+
+
+SSN
+DOB
+Name
+Gender
+Race
+
+
+1. To authorize a certain..
+2. a faculty member...
+3. Course, Personal, phone
+4. the employe neends to verify
+5. SSC
+6. Gov ID
+7. False
+8. SSN,DOB, race
+9. Complete again
+10. False
+
+
+
+
+Title IX
+
+
+

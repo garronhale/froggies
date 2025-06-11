@@ -1,0 +1,83 @@
+CampusPress (WordPress for campuses) is the product's name. CampusPress is considered a Content Management System (CMS).
+
+IT Security Questions
+
+·       Does this application/service involve handling / processing student or employee information?
+CampusPress will only handle or process what is voluntarily entered into the platform by an employee or student. Innately CampusPress will not handle / process student or employee information.
+
+·       Is this product cloud hosted or does it include any hosted services on premise?
+CampusPress will host our sites on Amazon AWS auto-scale clusters. On AWS, sites are hosted on a cluster of multiple web and database servers for built-in replication, load balancing, and redundancy. Nightly database backups are encrypted and then stored with Amazon S3.
+
+·       Does this product or service connect to a GCU/GCE network or run as software on a GCU/GCE system?
+CampusPress will authenticate our users through our own existing GCU/GCE authentication systems.
+
+·       Is this a renewal or a new product / service?
+New service
+
+·       Does this purchase involve a system that stores or transmits any financial data (e.g., account numbers, credit card numbers or budgetary/forecasting information)?
+No
+
+·       Does the system or process involve communication with students, employees or third parties via email, text or other communication methods?
+No
+
+·       Does this purchase involve a system that requires students or employees to authenticate (login)?
+Yes, CampusPress will authenticate our users through our own existing GCU/GCE systems.
+
+
+IT Business Engagement Questions
+
+·       What problem will this application solve that currently exists today?
+1.  CampusPress will allow GCU departments and faculty to publicly showcase their valuable work, identify the courses they teach, and illustrate important studies and other areas of interest.
+2. CampusPress will allow departments and faculty to manage their own webspace and will alleviate demand on our current development teams, and will expedite necessary and timely changes on non-critical systems.  
+3. GCU students now learn to find, evaluate and integrate materials from diverse sources, and ideally we want our students to contribute content they create back to the world community. 
+4.  The CMS will provide students with a platform to make their work publicly visible in the form of an "e-portfolio" - the same CMS the departments and faculty will be able to use.
+5. The e-portfolio CMS platform would be available to all students for a period of time post-graduation allowing our graduating students the ability to showcase their work to prospective employers.  
+6. The CMS will provide campus users with approved, themed template designs so the web presence will have a GCU look, display well on mobile devices and provide GCU with more flexibility than ever before. A GCU-branded CMS will help modernize our IT infrastructure to support scholarship, teaching, learning, engagement, collaboration, faculty recruitment and retention, increase our global web presence, and heighten the student experience. 
+7. CampusPress will enable our users to create either websites or blogs from which to post their content.
+8. GCU/GCE will have the ability to generate reports and analytical data about usage and traffic driven to our instance of CampusPress. We can run a student blog report for example. We could cross reference the Student blog data with the Class blog data to identify the class blog URL or search sites using the class blog ID. 
+9. GCU/GCE can import and host existing independent Wordpress installations (and some other web services) on campus under one managed license.
+
+·       If there are multiple components to this application, which one(s) stand out to you as being the most beneficial?
+The CampusPress license is for unlimited users, and unlimited sites, meaning a faculty members can create unlimited courses and course content, and students can create and contribute an unlimited amount of content. Additionally, CampusPress will allow all users (departments, faculty, staff, clubs, students) the ability to manage their own content. 
+
+·       Is this application replacing another product or is this something we are adding to solve the above problem (from #1)?
+This CMS would be a new addition
+
+·       Who will manage access to the application?
+The application will authenticate based on existing GCU/GCE group policy. As long as a user has the appropriate credentials, they will have access to CampusPress. We will have the ability to manually change that access as we deem necessary. The day-to-day management would be the responsibility of GCU Campus Technology. 
+
+·       How many users will be using the application?
+CampusPress will be open to anyone with appropriate GCU/GCE credentials. The CampusPress license is for unlimited users, and unlimited sites.
+
+·       Who are the users of the application?
+CampusPress will be available to anyone with appropriate GCU/GCE credentials.
+
+·       Who will be managing the users and inputting them into the application?
+The application will authenticate and access managed based on existing GCU/GCE group policy. As long as a user has the appropriate credentials, they will have access to CampusPress. We will have the ability to manually change that access as we deem necessary.
+
+·       What policies and expectations will be put in place for proper use of this application?
+The application has a "dashboard" for "Super-Administrators" (Campus Technology and/or others as is desired) where we can create our own policies. An example would be a "banned-word" list. Once a word is entered into this list, users will not be allowed to post that word on our CampusPress instance. CampusPress also provides a robust Audit Log which provides information on user activity to help us identify who made changes to which site and what change was made. We will follow known best-practices policies. 
+
+·       What expectations do you have from the IT Department?
+Campus Technology will be the "Super-administrators" and will handle the day-to-day administration and management of the service in coordination with CampusPress. CampusPress will provide troubleshooting and end user support to our users. 
+
+CampusPress performs all WordPress core, plugin and theme updates, general improvements, and server maintenance during a regularly scheduled weekly window. All changes are thoroughly tested by their developers and quality assurance teams. 
+
+
+MORE CAMPUSPRESS INFORMATION SHOULD ANYONE NEED IT:
+
+All customer data in the WordPress instance(s) will not leave the country in which it is hosted.
+
+GCE/GCU can provide our own SSL certificate
+
+CampusPress compliance and certifications can be found at aws.amazon.com/compliance
+
+More information about CampusPress security can be found here:
+https://campuspress.com/docs/security/
+
+Examples from other higher education institions use of CampusPress:
+https://campuspress.com/customer-showcase/
+
+Top 50 Universities In The World Are All Using WordPress
+https://campuspress.com/how-the-top-50-universities-in-the-world-are-all-using-wordpress/
+

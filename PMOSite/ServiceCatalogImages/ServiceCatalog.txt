@@ -1,0 +1,85 @@
+Computers & Devices
+Email & Calendaring
+Classroom & Instructional Support
+Event Support
+Training & Consulting
+Information security
+
+Printing
+Telephone & Video
+Software, Cloud Services & Business Applications
+Website Development
+Department Specific Services
+
+
+Accounts & Passwords
+Duck ID Accounts, Role Accounts, Two-Step Login, Access Requests
+
+Wi-Fi & Network
+WiFi, Wired Networking, VPN, Firewall Services
+
+Computers & Devices
+Office or personal desktop and printer support, Department Purchasing, Antivirus
+
+Printing
+Services for Pay to Print, and Office, Departmental printing.
+
+Email & Calendaring
+Email and Calendar (Email, Exchange, Webmail), Microsoft Teams, Spam Filtering, Email Lists
+
+Telephone & Video
+Telephones & Voicemail, UO Directory, Two-way Radio, Vendor/Event Network & Phone Services, Rentals
+
+Classroom & Instructional Support
+Halo, C-vue, Scanning Services, Classrooms and Labs
+
+Software, Cloud Services & Business Applications
+Microsoft Office 365, OneDrive Cloud Storage, Site-Licenses, SSC Guide
+
+Event Support
+Services to schedule classrooms, Catering, Event Calendar.
+
+Website Development
+Blogs, Drupal Hosting, gcu.edu, OrgSync, Domain Name Services
+
+Training & Consulting
+Device, Software, and User Training
+
+Department Specific Services
+Department specific services for School of X, School of X, and Housing.
+
+Information Security
+Report Phishing, SSL Certificates, Information Security Consulting
+Services (3)
+
+Submit a General Help Ticket
+If you are a current faculty, staff, or student with GCU and have a technology related question or need technical support, use this service to submit a general help ticket.
+
+
+Report a Service Outage
+Use this service to report a service outage or degradation of services
+I need help and I don't have a UO account
+
+If you are a prospective student, parent, alumni, vendor, etc. and have a technology related question, click here to open a ticket for IT support.
+
+Campus Help Desk 
+(480) 222-4000 option 1 (24/7 support) 
+helpdesk@gcu.edu (business hours only)
+
+
+Knowledge Base Categories:
+
+Accounts & Access 
+Campus Information Services Portal
+Email 
+Infrastructure 
+Network & Wireless 
+Other
+Research Computing 
+Security & 2FA 
+Servers & Storage 
+Service Management Policies & Processes 
+Teaching & Learning Tools 
+Telephone & Voice 
+University TV (UTV) 
+Websites & Applications 

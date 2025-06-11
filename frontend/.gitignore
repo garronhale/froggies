@@ -1,0 +1,76 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Testing
+coverage/
+
+# Production build files
+build/
+dist/
+# Environment variables
+.env*
+.env.*.local
+
+# AWS Amplify
+amplify/team-provider-info.json
+amplify/backend/amplify-meta.json
+amplify/backend/awscloudformation/
+amplify/backend/api/*/build/
+amplify/backend/api/*/resolvers/
+amplify/backend/auth/*/build/
+amplify/backend/function/*/dist/
+amplify/backend/function/*/build/
+amplify/backend/hosting/*/build/
+amplify/backend/storage/*/build/
+amplify/#current-cloud-backend/
+amplify/mock-data/
+amplify/mock-api-resources/
+aws-exports.js
+awsconfiguration.json
+amplifyconfiguration.json
+amplifyconfiguration.dart
+amplify-build-config.json
+amplify-gradle-config.json
+amplifytools.xcconfig
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Personal (consider moving to .git/info/exclude if not shared)
+Blackmagic Design/
+Death&Taxes/
+Infographics/
+IT Transition/
+OtherUniversities/
+PMI/
+PMOSite/
+Zoom/
+ZoomTeamBackground/
+Project Management Fundamentals (Draft 3).pptx
+ProjectScoringTemplate.csv
+roadmap.afdesign
+ScanRequest.eml
+Screenshot 2023-02-09 at 2.02.38 PM.png
+Security Site Scan Request.eml
+Security Site Scan Request.emltpl
+securityAnswersCampusPress.txt
+softwareaudit2-csv.csv
+softwareaudit2-csv.xlsx
+SoftwareAudit022223.13.xlsx
+UW-Project-Portfolio-Exec-Summary-Dec-2020.pdf
+William & Mary Customer White Paper.pdf
